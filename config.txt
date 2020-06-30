@@ -1,0 +1,2 @@
+medico_output
+pacientes_output
