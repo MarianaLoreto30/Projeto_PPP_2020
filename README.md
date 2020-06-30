@@ -1,5 +1,5 @@
 # Projeto_PPP_2020
-Projeto no âmbito da cadeira Princípios de Programação Procedimental - PPP - com base no desenvolvimente de listas ligadas com memória dinâmica em C
+Projeto no âmbito da cadeira Princípios de Programação Procedimental - PPP - com base no desenvolvimento de listas ligadas com memória dinâmica em C
 
 FICHEIROS
 
